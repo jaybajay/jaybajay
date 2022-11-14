@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @jaybajay
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-jaybajay/jaybajay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Jay from indonesia 
+- 👀 I’m interested in WEB3
+- 🌱 I’m currently learning WEB3
+- 📫 How to reach me abaejurinew@gmail.com
